@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: black;
+    color:#ffff;
+    height: auto;
+    width: 270px;
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    
+}
+.btn{
+    height: auto; 
+
+}

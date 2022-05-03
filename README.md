@@ -1,4 +1,7 @@
 # javascript-calculator
 A simple calculator built using HTML, CSS and JavaScript
 
-![image](https://user-images.githubusercontent.com/47948084/153292695-9af247e2-2bd5-476f-8567-dbaa2bf50cd1.png)
+![image](x-special/nautilus-clipboard
+copy
+file:///home/rayonaldo/Pictures/Screenshot%20from%202022-05-03%2014-31-03.png
+)
